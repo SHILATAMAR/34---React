@@ -66,7 +66,6 @@ function App() {
     }
   }
 
-
   return (
     <>
       <h1> Ice-Cream Kiosk </h1>
